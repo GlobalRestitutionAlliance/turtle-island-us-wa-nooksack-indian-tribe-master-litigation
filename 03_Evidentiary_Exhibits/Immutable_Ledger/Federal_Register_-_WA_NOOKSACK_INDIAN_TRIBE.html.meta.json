@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=WA+NOOKSACK+INDIAN+TRIBE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=WA+NOOKSACK+INDIAN+TRIBE",
+  "title": "Federal Register - WA NOOKSACK INDIAN TRIBE",
+  "fetched_at": "2026-11-23T17:49:10.500981Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 300227,
+  "sha256": "58bb5175432e0709576081472b8ed7a327fa9f549cbada9d1b7bbf6980efc29c",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
